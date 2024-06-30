@@ -8,7 +8,6 @@
     flex-direction: column;
     align-items: center;
 }
-
 .sidebarItem{
     display: flex;
     flex-direction: column;
@@ -31,7 +30,9 @@
 
 .sidebarItem > img{
     margin-top:15px;
-}
+    height: 400px;
+    width:200px;
+} 
 
 .sidebarItem > p{
     padding:30px;
